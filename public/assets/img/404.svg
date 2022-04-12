@@ -1,0 +1,11 @@
+<svg width="1920" height="1280" viewBox="0 0 1920 1280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="linearGradientId" gradientTransform="rotate(45 0.5 0.5)">
+      <stop offset="0%"  stop-color="#ef6767" />
+			<stop offset="50%"  stop-color="#fa9ba3" />
+			<stop offset="100%"  stop-color="#ffd4dc" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1920" height="1280" fill="url(#linearGradientId)" />
+</svg>
